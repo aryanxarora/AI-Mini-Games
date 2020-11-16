@@ -1,1 +1,1 @@
-# Gold-Miner-AI-
+# Gold-Miner-AI
